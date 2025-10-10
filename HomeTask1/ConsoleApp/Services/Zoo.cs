@@ -63,7 +63,7 @@ namespace ConsoleApp.Services
 
             foreach (Animal animal in _animals)
             {
-                Console.WriteLine($"Animal: {animal.GetType().Name}, {animal.Name}");
+                Console.WriteLine($"Animal: {animal.GetType().Name} {animal.Name}");
             }
         }
     }

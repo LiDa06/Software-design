@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "🧪 Run Tests + Coverage + Open Report",
+      "type": "shell",
+      "command": "dotnet test UTests --collect:\"XPlat Code Coverage\" && reportgenerator -reports:UTests/TestResults/**/coverage.cobertura.xml -targetdir:coveragereport -reporttypes:Html && start coveragereport\\index.html",
+      "problemMatcher": [],
+      "options": {
+        "shell": {
+          "executable": "cmd.exe",
+          "args": ["/c"]
+        }
+      },
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      }
+    }
+  ]
+}

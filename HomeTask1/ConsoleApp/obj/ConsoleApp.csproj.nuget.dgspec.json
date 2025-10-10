@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "c:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
