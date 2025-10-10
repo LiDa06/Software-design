@@ -9,5 +9,6 @@
   ],
   "coverage-gutters.showGutterCoverage": true,
   "coverage-gutters.showLineCoverage": true,
-  "coverage-gutters.heatmap": true
+  "coverage-gutters.heatmap": true,
+  "coverage-gutters.xmlPath": "UTests/TestResults/**/coverage.cobertura.xml"
 }

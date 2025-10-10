@@ -2,10 +2,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "🧪 Run Tests + Coverage Report",
+      "name": "Run Tests + Coverage Report",
       "type": "coreclr",
       "request": "launch",
-      "preLaunchTask": "🧪 Run Tests + Coverage + Open Report",
+      "preLaunchTask": "Run Tests + Coverage + Open Report",
       "program": "${workspaceFolder}/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll",
       "cwd": "${workspaceFolder}/ConsoleApp",
       "console": "integratedTerminal",

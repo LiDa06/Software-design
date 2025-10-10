@@ -10,18 +10,15 @@ namespace ConsoleApp.Services
         private readonly IVetClinic _vetClinic = vetClinic;
         private readonly List<Animal> _animals = [];
         private readonly List<Thing> _things = [];
+        private readonly List<string> _animalTypes = ["Monkey", "Rabbit", "Tiger", "Wolf"];
+        private readonly List<string> _thingTypes = ["Table", "Computer"];
 
         public void AddAnimal(Animal animal)
         {
-            if (animal == null)
-            {
-                return;
-            }
-
             if (_vetClinic.CheckHealth(animal))
             {
                 _animals.Add(animal);
-                Console.WriteLine("Животное добавлено в зоопарк");
+                Console.WriteLine("Животное добавлено в зоопарк!");
             }
             else
             {
@@ -30,10 +27,6 @@ namespace ConsoleApp.Services
         }
         public void AddThing(Thing thing)
         {
-            if (thing == null)
-            {
-                return;
-            }
             _things.Add(thing);
         }
 
@@ -51,6 +44,16 @@ namespace ConsoleApp.Services
         public IEnumerable<Animal> PettingZooAnimals()
         {
             return _animals.OfType<Herbo>().Where(h => h.CanBeInPettingZoo());
+        }
+
+        public List<string> AnimalTypes()
+        {
+            return _animalTypes;
+        }
+
+        public List<string> ThingTypes()
+        {
+            return _thingTypes;
         }
 
         public void Inventory()

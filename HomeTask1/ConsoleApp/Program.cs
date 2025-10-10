@@ -3,6 +3,7 @@ using ConsoleApp.Interfaces;
 using ConsoleApp.Alive;
 using ConsoleApp.Inventory;
 using ConsoleApp.Services;
+using System.Collections;
 
 namespace ConsoleApp
 {
@@ -10,30 +11,30 @@ namespace ConsoleApp
     {
         public static void Main(string[] args)
         {
+            ServiceCollection services = [];
 
+            services.AddTransient<IVetClinic, VetClinic>();
+            services.AddTransient<Zoo>();
 
-            /*var services = new ServiceCollection();
+            ServiceProvider provider = services.BuildServiceProvider();
 
-            services.AddSingleton<IVetClinic, VetClinic>();
-            services.AddSingleton<Zoo>();
+            Zoo zoo = provider.GetRequiredService<Zoo>();
 
-            var provider = services.BuildServiceProvider();
-
-            var zoo = provider.GetRequiredService<Zoo>(); 
-
-            // --- Используем приложение ---
-            zoo.AddAnimal(new Rabbit("Кролик", 2, 7));
-            zoo.AddAnimal(new Tiger("Тигр", 10));
-            zoo.AddThing(new Table(101));
-            zoo.AddThing(new Computer(102));
-
-            Console.WriteLine($"Всего еды в день: {zoo.TotalAmountOfFood()} кг");
-            Console.WriteLine("\nКонтактный зоопарк:");
-            foreach (var animal in zoo.PettingZooAnimals())
-                Console.WriteLine($" - {animal.Name}");
-
-            Console.WriteLine();
-            zoo.Inventory();*/
+            Console.WriteLine("Добро пожаловать в приложение!");
+            bool stopPoint = true;
+            while (stopPoint)
+            {
+                int command = Communication.MainMenue();
+                switch (command)
+                {
+                    case 1: Commands.Command1(ref zoo); break;
+                    case 2: Commands.Command2(ref zoo); break;
+                    case 3: zoo.TotalAmountOfFood(); break;
+                    case 4: zoo.PettingZooAnimals(); break;
+                    case 5: zoo.Inventory(); break;
+                    default: stopPoint = false; break;
+                }
+            }
         }
     }
 }
