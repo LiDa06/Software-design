@@ -1,0 +1,15 @@
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+c:\Users\user\Documents\University\2nd year\Software-design\HomeTask1\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

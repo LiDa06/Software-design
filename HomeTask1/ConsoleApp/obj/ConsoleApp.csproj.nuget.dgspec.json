@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj": {}
+    "c:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj": {
+    "c:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "c:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\obj\\",
+        "outputPath": "c:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask1\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

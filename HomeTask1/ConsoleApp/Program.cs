@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ConsoleApp.Services;
+
+VetClinic vetClinic = new();
+Zoo zoo = new(vetClinic);
