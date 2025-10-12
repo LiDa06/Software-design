@@ -12,24 +12,28 @@ namespace ConsoleApp.Services
         private readonly List<Thing> _things = [];
         private readonly List<string> _animalTypes = ["Monkey", "Rabbit", "Tiger", "Wolf"];
         private readonly List<string> _thingTypes = ["Table", "Computer"];
+        private readonly List<string> _herboTypes = ["Monkey", "Rabbit"];
+        private readonly List<string> _predarorTypes = ["Tiger", "Wolf"];
 
-        public void AddAnimal(Animal animal)
+        public List<string> AnimalTypes => _animalTypes;
+        public List<string> ThingTypes => _thingTypes;
+        public List<string> HerboTypes => _herboTypes;
+        public List<string> PredatorTypes => _predarorTypes;
+
+        public bool AddAnimal(Animal animal)
         {
             if (_vetClinic.CheckHealth(animal))
             {
                 _animals.Add(animal);
-                Console.WriteLine("Животное добавлено в зоопарк!");
+                return true;
             }
-            else
-            {
-                Console.WriteLine("Животное нездорово, невозможно добавить в зоопарк!");
-            }
+
+            return false;
         }
         public void AddThing(Thing thing)
         {
             _things.Add(thing);
         }
-
         public int TotalAmountOfFood()
         {
             int amount = 0;
@@ -44,30 +48,6 @@ namespace ConsoleApp.Services
         public IEnumerable<Animal> PettingZooAnimals()
         {
             return _animals.OfType<Herbo>().Where(h => h.CanBeInPettingZoo());
-        }
-
-        public List<string> AnimalTypes()
-        {
-            return _animalTypes;
-        }
-
-        public List<string> ThingTypes()
-        {
-            return _thingTypes;
-        }
-
-        public void Inventory()
-        {
-            Console.WriteLine("Inventory");
-            foreach (Thing thing in _things)
-            {
-                Console.WriteLine($"Thing: {thing.GetType().Name}, №{thing.Number}");
-            }
-
-            foreach (Animal animal in _animals)
-            {
-                Console.WriteLine($"Animal: {animal.GetType().Name} {animal.Name}");
-            }
         }
     }
 }

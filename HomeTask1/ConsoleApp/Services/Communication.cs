@@ -1,107 +1,113 @@
 using System.ComponentModel.DataAnnotations;
+using ConsoleApp.Interfaces;
 
 namespace ConsoleApp.Services
 {
-    public static class Communication
+    public class Communication(IConsole console)
     {
-        public static int MainMenue()
-        {
-            Console.WriteLine("    1. Добавить животное");
-            Console.WriteLine("    2. Добавить инвентарь");
-            Console.WriteLine("    3. Узнать общее количество еды");
-            Console.WriteLine("    4. Узнать животных, пригодных для контактного зоопарка");
-            Console.WriteLine("    5. Провести инвентаризацию");
-            Console.WriteLine("    6. Завершить работу");
-            Console.Write("Введите номер пункта меню: ");
+        private readonly IConsole _console = console;
 
-            int type;
-            while (!int.TryParse(Console.ReadLine(), out type) && !(1 <= type && type <= 5))
+        public int MainMenue()
+        {
+            _console.WriteLine("============= Меню =============");
+            _console.WriteLine("1. Добавить животное");
+            _console.WriteLine("2. Добавить вещь");
+            _console.WriteLine("3. Показать животных, пригодных для контактного зоопарка");
+            _console.WriteLine("4. Выйти");
+            _console.Write("Выберите пункт: ");
+
+            int command;
+            while (!int.TryParse(_console.ReadLine(), out command) || 1 > command || command > 4)
             {
-                Console.Write("Вы ввели неверный пункт меню:");
+                _console.WriteLine("Ошибка! Повторите попытку.");
+                _console.Write("Выберите пункт: ");
             }
 
-            return type;
+            return command;
+        }
+        public string AnimalsMenue(Zoo zoo)
+        {
+            _console.WriteLine("Выберите животное:");
+            foreach (string type in zoo.AnimalTypes)
+            {
+                _console.WriteLine($" * {type}");
+            }
+
+            _console.Write("Ваш выбор: ");
+            string? animal = _console.ReadLine();
+
+            while (string.IsNullOrWhiteSpace(animal) || !zoo.AnimalTypes.Contains(animal))
+            {
+                _console.WriteLine("Ошибка! Введите одно из предложенных значений.");
+                _console.Write("Ваш выбор: ");
+                animal = _console.ReadLine();
+            }
+
+            return animal;
         }
 
-        public static string AnimalsMenue(ref Zoo zoo)
+        public string ThingsMenue(Zoo zoo)
         {
-            List<string> animalTypes = zoo.AnimalTypes();
-            for (int i = 0; i < animalTypes.Count; ++i)
+            _console.WriteLine("Выберите вещь:");
+            foreach (string type in zoo.ThingTypes)
             {
-                Console.WriteLine($"    {i + 1}. {animalTypes[i]}");
+                _console.WriteLine($" * {type}");
             }
 
-            Console.Write("Введите тип животного: ");
-            string animalType = Console.ReadLine() ?? "";
-            while (!animalTypes.Contains(animalType))
+            _console.Write("Ваш выбор: ");
+            string? thing = _console.ReadLine();
+
+            while (string.IsNullOrWhiteSpace(thing) || !zoo.ThingTypes.Contains(thing))
             {
-                Console.Write("Введённый вид не содержится в этом зоопарке. Введите снова:");
-                animalType = Console.ReadLine() ?? "";
+                _console.WriteLine("Ошибка! Введите одно из предложенных значений.");
+                _console.Write("Ваш выбор: ");
+                thing = _console.ReadLine();
             }
 
-            return animalType;
+            return thing;
         }
 
-        public static string ThingsMenue(ref Zoo zoo)
+        public string GetName()
         {
-            List<string> thingTypes = zoo.ThingTypes();
-            for (int i = 0; i < thingTypes.Count; ++i)
-            {
-                Console.WriteLine($"    {i + 1}. {thingTypes[i]}");
-            }
-
-            Console.Write("Введите тип вещи: ");
-            string thingType = Console.ReadLine() ?? "";
-            while (thingTypes.Contains(thingType))
-            {
-                Console.Write("Введённый тип не содержится в этом зоопарке. Введите снова:");
-                thingType = Console.ReadLine() ?? "";
-            }
-
-            return thingType;
+            _console.Write("Введите имя животного: ");
+            return _console.ReadLine() ?? string.Empty;
         }
 
-        public static string GetName()
+        public int GetAmountOfFood()
         {
-            Console.Write("Введите имя животного: ");
-            string name = Console.ReadLine() ?? "";
+            _console.Write("Введите количество еды: ");
+            int amount;
 
-            return name;
-        }
-
-        public static int GetAmountOfFood()
-        {
-            Console.Write("Введите количество еды: ");
-            int amound;
-            while (!int.TryParse(Console.ReadLine(), out amound) && !(0 <= amound))
+            while (!int.TryParse(_console.ReadLine(), out amount) || amount < 0)
             {
-                Console.Write("Введите корректное значение: ");
+                _console.WriteLine("Ошибка! Введите целое положительное число:");
+                _console.Write("Введите количество еды: ");
             }
 
-            return amound;
+            return amount;
         }
 
-        public static int GetKindness()
+        public int GetKindness()
         {
-            Console.Write("Введите доброту животного: ");
-            int kindness;
-            while (!int.TryParse(Console.ReadLine(), out kindness) && !(1 <= kindness && kindness <= 10))
+            _console.Write("Введите уровень доброты (1–10): ");
+            int value;
+            while (!int.TryParse(_console.ReadLine(), out value) || value < 1 || value > 10)
             {
-                Console.Write("Введите корректное значение доброты: ");
+                _console.WriteLine("Ошибка! Введите число от 1 до 10:");
+                _console.Write("Введите уровень доброты (1–10): ");
             }
-
-            return kindness;
+            return value;
         }
 
-        public static int GetNumber()
+        public int GetNumber()
         {
-            Console.Write("Введите количество: ");
+            _console.Write("Введите количество: ");
             int number;
-            while (!int.TryParse(Console.ReadLine(), out number) && !(number >= 0))
+            while (!int.TryParse(_console.ReadLine(), out number) || number <= 0)
             {
-                Console.Write("Введите корректное значение: ");
+                _console.WriteLine("Ошибка! Введите корректное колличество (целое положительное число):");
+                _console.Write("Введите количество: ");
             }
-
             return number;
         }
     }
