@@ -30,9 +30,9 @@ namespace ConsoleApp.Services
 
             return false;
         }
-        public void AddThing(Thing thing)
+        public int NumberOfAnimals()
         {
-            _things.Add(thing);
+            return _animals.Count;
         }
         public int TotalAmountOfFood()
         {
@@ -43,6 +43,21 @@ namespace ConsoleApp.Services
             }
 
             return amount;
+        }
+        public void AddThing(Thing thing)
+        {
+            _things.Add(thing);
+        }
+
+        public int NumberOfThings()
+        {
+            int number = 0;
+            foreach (Thing thing in _things)
+            {
+                number += thing.Number;
+            }
+
+            return number;
         }
 
         public IEnumerable<Animal> PettingZooAnimals()

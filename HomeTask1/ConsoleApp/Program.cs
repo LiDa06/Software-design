@@ -8,14 +8,15 @@ namespace ConsoleApp
     {
         static void Main()
         {
-            ServiceCollection services = new();
+            var services = new ServiceCollection();
 
             services.AddTransient<IConsole, SystemConsole>();
-            services.AddTransient<Communication>();
+            services.AddTransient<IVetClinic, VetClinic>();
             services.AddTransient<Zoo>();
+            services.AddTransient<Communication>();
             services.AddTransient<Commands>();
 
-            ServiceProvider provider = services.BuildServiceProvider();
+            var provider = services.BuildServiceProvider();
 
             var commands = provider.GetRequiredService<Commands>();
             commands.Run();
