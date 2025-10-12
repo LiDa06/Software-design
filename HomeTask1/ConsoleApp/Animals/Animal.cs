@@ -1,6 +1,6 @@
 using ConsoleApp.Interfaces;
 
-namespace ConsoleApp.Alive
+namespace ConsoleApp.Animals
 {
     public abstract class Animal(string name, int food) : IAlive, IInventory
     {

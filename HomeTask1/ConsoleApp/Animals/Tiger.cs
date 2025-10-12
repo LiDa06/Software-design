@@ -1,4 +1,4 @@
-namespace ConsoleApp.Alive
+namespace ConsoleApp.Animals
 {
     public class Tiger(string name, int food) : Predator(name, food)
     {

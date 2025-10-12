@@ -1,6 +1,6 @@
 using ConsoleApp.Interfaces;
-using ConsoleApp.Alive;
-using ConsoleApp.Inventory;
+using ConsoleApp.Animals;
+using ConsoleApp.Things;
 
 namespace ConsoleApp.Services
 {

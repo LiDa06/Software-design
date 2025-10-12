@@ -1,6 +1,6 @@
 using ConsoleApp.Interfaces;
 
-namespace ConsoleApp.Inventory
+namespace ConsoleApp.Things
 {
     public class Thing(int number) : IInventory
     {

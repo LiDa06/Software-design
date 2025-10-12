@@ -1,5 +1,5 @@
-using ConsoleApp.Alive;
-using ConsoleApp.Inventory;
+using ConsoleApp.Animals;
+using ConsoleApp.Things;
 using System.Collections.Generic;
 using System.Data.SqlTypes;
 

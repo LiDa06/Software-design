@@ -1,4 +1,4 @@
-using ConsoleApp.Alive;
+using ConsoleApp.Animals;
 
 namespace ConsoleApp.Services
 {

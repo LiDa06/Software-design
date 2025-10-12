@@ -1,4 +1,4 @@
-namespace ConsoleApp.Alive
+namespace ConsoleApp.Animals
 {
     public abstract class Herbo(string name, int food, int kindness) : Animal(name, food)
     {

@@ -1,4 +1,4 @@
-namespace ConsoleApp.Alive
+namespace ConsoleApp.Animals
 {
     public class Monkey(string name, int food, int kindness) : Herbo(name, food, kindness)
     {
