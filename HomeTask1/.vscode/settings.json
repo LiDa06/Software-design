@@ -1,14 +1,9 @@
 {
-  "dotnet.defaultSolution": "HomeTask1.sln",
-  "dotnet-test-explorer.testProjectPath": "UTests",
-  "dotnet-test-explorer.autoExpandTree": true,
-  "omnisharp.loggingLevel": "warning",
-  "editor.semanticHighlighting.enabled": true,
-  "coverage-gutters.coverageFileNames": [
-    "coverage.cobertura.xml"
-  ],
-  "coverage-gutters.showGutterCoverage": true,
-  "coverage-gutters.showLineCoverage": true,
-  "coverage-gutters.heatmap": true,
-  "coverage-gutters.xmlPath": "UTests/TestResults/**/coverage.cobertura.xml"
+    "dotnet.defaultSolution": "HomeTask1.sln",
+    "dotnet.server.useOmnisharp": true,
+    "dotnet.formatting.useEditorConfig": true,
+    "csharp.suppressDotnetInstallWarning": true,
+    "csharp.defaultProject": "ConsoleApp/ConsoleApp.csproj",
+    "csharp.lint.enable": true,
+    "csharp.testExplorer.showCodeCoverage": false
 }

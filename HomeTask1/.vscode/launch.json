@@ -1,15 +1,16 @@
 {
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "name": "Run Tests + Coverage Report",
-      "type": "coreclr",
-      "request": "launch",
-      "preLaunchTask": "Run Tests + Coverage + Open Report",
-      "program": "${workspaceFolder}/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll",
-      "cwd": "${workspaceFolder}/ConsoleApp",
-      "console": "integratedTerminal",
-      "stopAtEntry": false
-    }
-  ]
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Запуск ConsoleApp",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ConsoleApp",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        }
+    ]
 }
