@@ -1,8 +1,7 @@
 using Xunit;
 using ConsoleApp.Services;
-using ConsoleApp.Alive;
-using System;
-using ConsoleApp.Inventory;
+using ConsoleApp.Animals;
+using ConsoleApp.Things;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace UTests
@@ -12,25 +11,25 @@ namespace UTests
         [Fact]
         public void CreateMonkey()
         {
-            Monkey monkey = new("jsnfvijeo", 23, 10);
+            Monkey monkey = new("Monkey", 23, 10);
             Assert.NotNull(monkey);
         }
         [Fact]
         public void CreateRabbit()
         {
-            Rabbit rabbit = new("dgjegi", 39, 1);
+            Rabbit rabbit = new("Rabbit", 39, 1);
             Assert.NotNull(rabbit);
         }
         [Fact]
         public void CreateTiger()
         {
-            Tiger tiger = new("kjfgnieu", 3);
+            Tiger tiger = new("Tiger", 3);
             Assert.NotNull(tiger);
         }
         [Fact]
         public void CreateWolf()
         {
-            Wolf wolf = new("jdfkgnjf", 300);
+            Wolf wolf = new("Wolf", 300);
             Assert.NotNull(wolf);
         }
         [Fact]
