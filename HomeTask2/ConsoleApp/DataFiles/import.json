@@ -1,0 +1,37 @@
+{
+  "Accounts": [
+    {
+      "Id": "b66d8a95-4290-4986-90df-a8133a98f626",
+      "Name": "Основной счёт",
+      "Balance": 15000.0
+    },
+    {
+      "Id": "2c318156-3d2b-4b49-b549-1fecc170c901",
+      "Name": "Копилка",
+      "Balance": 5000.0
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "1135402e-73a9-4f81-8bdc-b953767de4d3",
+      "Type": 1,
+      "Name": "Кофе"
+    },
+    {
+      "Id": "3a53f634-25cd-4827-84ae-f6401175b76b",
+      "Type": 0,
+      "Name": "Зарплата"
+    }
+  ],
+  "Operations": [
+    {
+      "Id": "51a84f0a-a459-4d65-a54c-b8232f4d84a1",
+      "Type": 1,
+      "BankAccountId": "1a",
+      "CategoryId": "3c",
+      "Amount": 250.00,
+      "Date": "2025-11-05T00:00:00",
+      "Description": "Кофе в Starbucks"
+    }
+  ]
+}

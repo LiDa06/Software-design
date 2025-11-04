@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "ed51a9c1-e306-494d-825c-9108ccc7a64d",
+    "Name": "\u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u0441\u0447\u0451\u0442",
+    "Balance": 15000.00
+  },
+  {
+    "Id": "0349b7d2-d27d-49a5-9588-8309a1e23cbc",
+    "Name": "\u041A\u043E\u043F\u0438\u043B\u043A\u0430",
+    "Balance": 5000.00
+  }
+]
+[
+  {
+    "Id": "f48f15bc-9b6b-4b48-af42-185ecf30148b",
+    "Type": 1,
+    "Name": "\u041A\u043E\u0444\u0435"
+  },
+  {
+    "Id": "0a764226-cbe7-4065-b8fc-03cef34a39fe",
+    "Type": 0,
+    "Name": "\u0417\u0430\u0440\u043F\u043B\u0430\u0442\u0430"
+  }
+]
+[
+  {
+    "Id": "0860f56d-e997-4dad-9e17-beb3c90c6fed",
+    "Type": 1,
+    "BankAccountId": "6e68b482-7bfb-4a34-a9c1-0d03d7e5b772",
+    "CategoryId": "bbf4b91b-29d0-4c22-9b6b-bd7dc1a5e7de",
+    "Amount": 250.00,
+    "Date": "2025-11-05T00:00:00",
+    "Description": "\u041A\u043E\u0444\u0435 \u0432 Starbucks"
+  },
+  {
+    "Id": "8d4cde12-2f0a-43eb-8749-1cce99fa6e3e",
+    "Type": 0,
+    "BankAccountId": "6e68b482-7bfb-4a34-a9c1-0d03d7e5b772",
+    "CategoryId": "9d9017e4-7f8a-4c21-8b50-12cf1dbb1d8b",
+    "Amount": 40000.00,
+    "Date": "2025-11-05T00:00:00",
+    "Description": "\u0417\u0430\u0440\u043F\u043B\u0430\u0442\u0430 \u0437\u0430 \u043D\u043E\u044F\u0431\u0440\u044C"
+  }
+]

@@ -1,0 +1,9 @@
+Id,Name,Balance
+69478d27-d473-4e62-80ce-248f019a6231,Dima,97000
+7474c3b3-cbb1-4278-b6fd-ac4dec394489,Dasha,1000
+Id,Type,Name
+6fd0ec84-4b1a-4277-8472-39a320854c46,Expense,Sport
+db21fb1a-61be-43ac-b88d-85ed4b072059,Expense,Cafe
+e82de962-786b-42f6-b06b-017b6737a822,Income,Salary
+Id,Type,BankAccountId,CategoryId,Amount,Date,Description
+546957d1-87e7-4a1b-89b9-7a89929d595b,Expense,69478d27-d473-4e62-80ce-248f019a6231,db21fb1a-61be-43ac-b88d-85ed4b072059,3000,2025-11-04T20:29:34.6719228+03:00,
