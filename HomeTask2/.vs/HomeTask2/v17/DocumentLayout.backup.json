@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\facades\\operationfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\facades\\operationfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\importexportdata\\csvimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\importexportdata\\csvimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\importexportdata\\dataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\importexportdata\\dataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\importexportdata\\iexportvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\importexportdata\\iexportvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\importexportdata\\jsonimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\importexportdata\\jsonimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\models\\exporteddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\exporteddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\repositories\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\repositories\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\ui\\submenus\\analyticsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\ui\\submenus\\analyticsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\ui\\submenus\\bankaccountmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\ui\\submenus\\bankaccountmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\ui\\submenus\\categorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\ui\\submenus\\categorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\ui\\submenus\\importexportmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\ui\\submenus\\importexportmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\ui\\submenus\\operationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\ui\\submenus\\operationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\ui\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\ui\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\commands\\addoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\commands\\addoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\commands\\commandtimerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\commands\\commandtimerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\domain\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\domain\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\facades\\analyticsfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\facades\\analyticsfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\facades\\bankaccountfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\facades\\bankaccountfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\facades\\categoryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\facades\\categoryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask2\\consoleapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F71BF6FD-90F2-4D17-98F2-91463947F405}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportedData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Models\\ExportedData.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\ExportedData.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Models\\ExportedData.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\ExportedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:21:10.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImportExportMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\SubMenus\\ImportExportMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\UI\\SubMenus\\ImportExportMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\SubMenus\\ImportExportMenu.cs",
+              "RelativeToolTip": "ConsoleApp\\UI\\SubMenus\\ImportExportMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:42:31.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnalyticsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\SubMenus\\AnalyticsMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\UI\\SubMenus\\AnalyticsMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\SubMenus\\AnalyticsMenu.cs",
+              "RelativeToolTip": "ConsoleApp\\UI\\SubMenus\\AnalyticsMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:42:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OperationMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\SubMenus\\OperationMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\UI\\SubMenus\\OperationMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\SubMenus\\OperationMenu.cs",
+              "RelativeToolTip": "ConsoleApp\\UI\\SubMenus\\OperationMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:42:00.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\SubMenus\\CategoryMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\UI\\SubMenus\\CategoryMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\SubMenus\\CategoryMenu.cs",
+              "RelativeToolTip": "ConsoleApp\\UI\\SubMenus\\CategoryMenu.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:41:42.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BankAccountMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\SubMenus\\BankAccountMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\UI\\SubMenus\\BankAccountMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\SubMenus\\BankAccountMenu.cs",
+              "RelativeToolTip": "ConsoleApp\\UI\\SubMenus\\BankAccountMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:41:27.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\UI\\ConsoleMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\UI\\ConsoleMenu.cs",
+              "RelativeToolTip": "ConsoleApp\\UI\\ConsoleMenu.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:37:49.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\README.md",
+              "RelativeDocumentMoniker": "ConsoleApp\\README.md",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\README.md",
+              "RelativeToolTip": "ConsoleApp\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-04T13:33:15.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Repositories\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Repositories\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Repositories\\InMemoryRepository.cs",
+              "RelativeToolTip": "ConsoleApp\\Repositories\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:59:42.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExportVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\ImportExportData\\IExportVisitor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\ImportExportData\\IExportVisitor.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\ImportExportData\\IExportVisitor.cs",
+              "RelativeToolTip": "ConsoleApp\\ImportExportData\\IExportVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:49:33.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommandTimerDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Commands\\CommandTimerDecorator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Commands\\CommandTimerDecorator.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Commands\\CommandTimerDecorator.cs",
+              "RelativeToolTip": "ConsoleApp\\Commands\\CommandTimerDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:41:35.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddOperationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Commands\\AddOperationCommand.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Commands\\AddOperationCommand.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Commands\\AddOperationCommand.cs",
+              "RelativeToolTip": "ConsoleApp\\Commands\\AddOperationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:39:53.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Commands\\ICommand.cs",
+              "RelativeToolTip": "ConsoleApp\\Commands\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:39:16.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ConsoleApp\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:14:56.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AnalyticsFacade.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Facades\\AnalyticsFacade.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Facades\\AnalyticsFacade.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Facades\\AnalyticsFacade.cs",
+              "RelativeToolTip": "ConsoleApp\\Facades\\AnalyticsFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:11:50.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperationFacade.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Facades\\OperationFacade.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Facades\\OperationFacade.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Facades\\OperationFacade.cs",
+              "RelativeToolTip": "ConsoleApp\\Facades\\OperationFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:11:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryFacade.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Facades\\CategoryFacade.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Facades\\CategoryFacade.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Facades\\CategoryFacade.cs",
+              "RelativeToolTip": "ConsoleApp\\Facades\\CategoryFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:11:12.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BankAccountFacade.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Facades\\BankAccountFacade.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Facades\\BankAccountFacade.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Facades\\BankAccountFacade.cs",
+              "RelativeToolTip": "ConsoleApp\\Facades\\BankAccountFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:10:47.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonImporter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\ImportExportData\\JsonImporter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\ImportExportData\\JsonImporter.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\ImportExportData\\JsonImporter.cs",
+              "RelativeToolTip": "ConsoleApp\\ImportExportData\\JsonImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:08:06.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvImporter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\ImportExportData\\CsvImporter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\ImportExportData\\CsvImporter.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\ImportExportData\\CsvImporter.cs",
+              "RelativeToolTip": "ConsoleApp\\ImportExportData\\CsvImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:07:49.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataImporter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\ImportExportData\\DataImporter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\ImportExportData\\DataImporter.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\ImportExportData\\DataImporter.cs",
+              "RelativeToolTip": "ConsoleApp\\ImportExportData\\DataImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:07:28.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Models\\BankAccount.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:47:07.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Domain\\Factory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Domain\\Factory.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Domain\\Factory.cs",
+              "RelativeToolTip": "ConsoleApp\\Domain\\Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:45:06.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Models\\Operation.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Operation.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Models\\Operation.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:44:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Models\\Category.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:44:03.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask2\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:23:46.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
