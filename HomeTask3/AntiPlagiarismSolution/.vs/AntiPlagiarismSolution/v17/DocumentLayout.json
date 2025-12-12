@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\filestorageservice\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|solutionrelative:filestorageservice\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\filestorageservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|solutionrelative:filestorageservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\filestorageservice\\services\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|solutionrelative:filestorageservice\\services\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\filestorageservice\\services\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|solutionrelative:filestorageservice\\services\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\filestorageservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|solutionrelative:filestorageservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\fileanalysisservice\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\fileanalysisservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\fileanalysisservice\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\fileanalysisservice\\services\\analysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\services\\analysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\fileanalysisservice\\services\\ianalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\services\\ianalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\apigateway\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\filestorageservice\\models\\studentwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|solutionrelative:filestorageservice\\models\\studentwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\filestorageservice\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|solutionrelative:filestorageservice\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\fileanalysisservice\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\fileanalysisservice\\fileanalysisservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\fileanalysisservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\apigateway\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\filestorageservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|solutionrelative:filestorageservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\fileanalysisservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\filestorageservice\\filestorageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|solutionrelative:filestorageservice\\filestorageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\fileanalysisservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F410D72A-4E76-4999-AE0C-093195C2CD24}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\filestorageservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1D8513F-5A1B-4ECA-AAE4-B18C32609FB2}|FileStorageService\\FileStorageService.csproj|solutionrelative:filestorageservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|c:\\users\\user\\documents\\university\\2nd year\\software-design\\hometask3\\antiplagiarismsolution\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1FFB755D-CB33-43EB-90B1-B74E6FF8EC3D}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileStorageService\\Dockerfile",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Dockerfile",
+              "RelativeToolTip": "FileStorageService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-12T19:37:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Dockerfile",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Dockerfile",
+              "RelativeToolTip": "FileAnalysisService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-12T19:35:14.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "ApiGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-12T19:34:58.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FileStorageService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FileStorageService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T19:24:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FileAnalysisService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T19:23:58.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T19:17:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileStorageService",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\FileStorageService.csproj",
+              "RelativeDocumentMoniker": "FileStorageService\\FileStorageService.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\FileStorageService.csproj",
+              "RelativeToolTip": "FileStorageService\\FileStorageService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T18:34:05.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileAnalysisService",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\FileAnalysisService.csproj",
+              "RelativeDocumentMoniker": "FileAnalysisService\\FileAnalysisService.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\FileAnalysisService.csproj",
+              "RelativeToolTip": "FileAnalysisService\\FileAnalysisService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T18:33:41.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApiGateway",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T18:33:31.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Dockerfile",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Dockerfile",
+              "RelativeToolTip": "FileAnalysisService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-12T18:20:04.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileStorageService\\Dockerfile",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Dockerfile",
+              "RelativeToolTip": "FileStorageService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-12T18:19:19.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "ApiGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-12T18:17:43.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-12T18:08:10.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Services\\LocalFileStorage.cs",
+              "RelativeDocumentMoniker": "FileStorageService\\Services\\LocalFileStorage.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Services\\LocalFileStorage.cs",
+              "RelativeToolTip": "FileStorageService\\Services\\LocalFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:33:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Services\\IFileStorage.cs",
+              "RelativeDocumentMoniker": "FileStorageService\\Services\\IFileStorage.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Services\\IFileStorage.cs",
+              "RelativeToolTip": "FileStorageService\\Services\\IFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:33:35.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FileStorageService\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "FileStorageService\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:32:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentWork.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Models\\StudentWork.cs",
+              "RelativeDocumentMoniker": "FileStorageService\\Models\\StudentWork.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Models\\StudentWork.cs",
+              "RelativeToolTip": "FileStorageService\\Models\\StudentWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:32:43.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "FileStorageService\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "FileStorageService\\Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:32:10.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Services\\AnalysisService.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Services\\AnalysisService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Services\\AnalysisService.cs",
+              "RelativeToolTip": "FileAnalysisService\\Services\\AnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:30:45.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Services\\IAnalysisService.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Services\\IAnalysisService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Services\\IAnalysisService.cs",
+              "RelativeToolTip": "FileAnalysisService\\Services\\IAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:30:26.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "FileAnalysisService\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:29:50.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Models\\Report.cs",
+              "RelativeToolTip": "FileAnalysisService\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:29:37.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "FileAnalysisService\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:28:59.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GatewayController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\Controllers\\GatewayController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\GatewayController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\Controllers\\GatewayController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\GatewayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:27:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Program.cs",
+              "RelativeDocumentMoniker": "FileStorageService\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileStorageService\\Program.cs",
+              "RelativeToolTip": "FileStorageService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:25:03.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Program.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\FileAnalysisService\\Program.cs",
+              "RelativeToolTip": "FileAnalysisService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:24:54.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\2nd year\\Software-design\\HomeTask3\\AntiPlagiarismSolution\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:24:35.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

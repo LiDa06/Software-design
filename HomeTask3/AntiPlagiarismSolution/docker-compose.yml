@@ -1,0 +1,35 @@
+services:
+
+  gateway:
+    build: ./ApiGateway
+    container_name: apigateway
+    ports:
+      - "8080:5001"
+    environment:
+      ASPNETCORE_URLS: "http://0.0.0.0:5001"
+      StorageServiceUrl: "http://filestorage:5062"
+      AnalysisServiceUrl: "http://analysis:5023"
+    depends_on:
+      - filestorage
+      - analysis
+
+  filestorage:
+    build: ./FileStorageService
+    container_name: filestorage
+    ports:
+      - "8001:5062"
+    environment:
+      ASPNETCORE_URLS: "http://0.0.0.0:5062"
+    volumes:
+      - files:/files
+
+  analysis:
+    build: ./FileAnalysisService
+    container_name: analysis
+    ports:
+      - "8002:5023"
+    environment:
+      ASPNETCORE_URLS: "http://0.0.0.0:5023"
+
+volumes:
+  files:
